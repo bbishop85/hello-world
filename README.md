@@ -1,4 +1,4 @@
 # hello-world
 
-This is my first use og GitHub.
+This is my first use of GitHub.
 
